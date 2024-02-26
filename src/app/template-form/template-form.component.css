@@ -1,0 +1,3 @@
+.ng-invalid.ng-touched:not(form):not(.endereco){
+    border: 1px solid red ;
+}
